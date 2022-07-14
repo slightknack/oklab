@@ -1,0 +1,5 @@
+[package]
+name = "oklab"
+version = "0.1.0"
+edition = "2021"
+authors = ["Isaac Clayton <slightknack@gmail.com>"]
